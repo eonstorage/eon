@@ -1,2 +1,2 @@
-# eon (Embedded ON OS/Networking)
+# EON (Embedded ON)
 ZFS NAS appliance based on (Illumos, OpenIndiana, OmniOS)
